@@ -2,14 +2,14 @@
 
 # Hi 👋, I'm He0xD4C0
 
-- 🔭 I'm currently working on **Purity - A Third Party Frontend for NeteaseMusic with out community feathers, to make a purified music experience.
+- 🔭 I'm currently working on **Purity - A Third Party Frontend for NeteaseMusic without community features, to make a purified music experience.
 CaptRAW - Codes for My Misskey Server**
 
 - 🌱 I'm currently learning **Nothing just Vibe Coding. I am not good at coding and I just vibe everything.**
 
 - 🤝 I'm looking for help with **My HOMEWORK and EXAMs.**
 
-- 💬 Ask me about **Photograph, Photoshop. Yes I am goot at taking photos. Don't ask me why I am good at it. I am just good at it.**
+- 💬 Ask me about **Photograph, Photoshop. Yes I am good at taking photos. Don't ask me why I am good at it. I am just good at it.**
 
 - 📫 How to reach me **He0xD4C0@163.com**
 
@@ -18,6 +18,15 @@ CaptRAW - Codes for My Misskey Server**
 - 👨‍💻 All of my projects are available at **[https://hub.captraw.com/@He0xD4C0](https://hub.captraw.com/@He0xD4C0)**
 
 - 📝 I regularly write articles on **[https://hub.captraw.com](https://hub.captraw.com)**
+
+<!-- 新增开始：GitHub Readme Stats 卡片 -->
+<p align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=He0xD4C0&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=He0xD4C0&layout=compact&langs_count=8&theme=radical"/>
+  </a>
+</p>
+<!-- 新增结束 -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
