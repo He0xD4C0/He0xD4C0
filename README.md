@@ -13,7 +13,7 @@ CaptRAW - Codes for My Misskey Server**
 
 - 📫 How to reach me **He0xD4C0@163.com**
 
-- ⚡ Fun fact **A Good-For-Nothing -- Sometimes make vulgar jokes, sometimes become a fun person, sometimes just sit quietly and Vibe Coding.**
+- ⚡ Fun fact **A Good-For-Nothing -- Sometimes make vulgar jokes, sometimes become a funning man, sometimes just sit quietly and Vibe Coding.**
 
 - 👨‍💻 All of my projects are available at **[https://hub.captraw.com/@He0xD4C0](https://hub.captraw.com/@He0xD4C0)**
 
