@@ -25,6 +25,7 @@ Everything I do – dev logs, fresh shots, even what I ate – goes up on **[hub
 <p align="left">
 <a href="https://github.com/He0xD4C0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="He0xD4C0" height="30" width="40" /></a>
 <a href="https://youtube.com/He0xD4C0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="He0xD4C0" height="30" width="40" /></a>
+<a href="https://space.bilibili.com/431370132" target="blank"><img align="center" src="https://www.bilibili.com/favicon.ico" alt="Bilibili" height="30" width="30" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
