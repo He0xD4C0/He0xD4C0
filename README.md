@@ -6,7 +6,7 @@
 
 I'm a developer who vibes his way through code – currently fiddling with **Purity** (a clean frontend for NeteaseMusic (based on NeteaseMusicApiEnhanced)) and **CaptRAW** (my own fork of Misskey with my little thoughts on both front and back ends).  
 That said, I actually spend more time with my camera than in front of a terminal. 
-Everything I do – dev logs, fresh shots, even what I ate – goes up on **[hub.captraw.com](https://hub.captraw.com)** . It's basically my digital life dump.  
+Everything I do – dev logs, fresh shots, even what I ate – goes up on **[CaptRAW Community](https://hub.captraw.com/@He0xD4C0)** . It's basically my digital life dump.  
 
 📫 Reach me at **He0xD4C0@163.com**  
 
